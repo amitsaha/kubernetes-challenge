@@ -2,10 +2,10 @@
 
 List of manifests:
 
-- (./deployment.yaml)[Deployment manifest]
-- (./service.yaml)[Service manifest]
-- (./nginx-ingress-controller.yaml)[Nginx ingress controller setup]
-- (./learnk8s-ingress.yaml)[Ingress object for learn k8s application]
+- [Deployment manifest](./deployment.yaml)
+- [Service manifest](./service.yaml)
+- [Nginx ingress controller setup](./nginx-ingress-controller.yaml)
+- [Ingress object for learn k8s application](./learnk8s-ingress.yaml)
 
 
 To deploy:
